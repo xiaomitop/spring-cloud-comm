@@ -15,7 +15,7 @@
     <parent>
         <groupId>com.comm</groupId>
         <artifactId>spring-cloud-comm</artifactId>
-        <version>parent.version</version>
+        <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
